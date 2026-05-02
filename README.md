@@ -125,6 +125,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## 🙋 Author
 
-Built by **[Your Name]** — [GitHub](https://github.com/YOUR_USERNAME)
+Built by **[subam z]** — [GitHub](https://github.com/YOUR_USERNAME)
 
 If this helps you, give it a ⭐ and share it!
